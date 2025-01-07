@@ -1,6 +1,6 @@
 from newspaper import Article
 
-from ainara.framework.skill import Skill
+from malai.framework.skill import Skill
 
 
 class HtmlTextParser(Skill):
