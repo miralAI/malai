@@ -1,5 +1,5 @@
-from ainara.framework.llm_backend import LiteLLMBackend
-from ainara.framework.skill import Skill
+from malai.framework.llm_backend import LiteLLMBackend
+from malai.framework.skill import Skill
 
 
 class TextCompletion(Skill):
