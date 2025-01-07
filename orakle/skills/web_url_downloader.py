@@ -1,7 +1,7 @@
 import requests
 import validators
 
-from ainara.framework.skill import Skill
+from malai.framework.skill import Skill
 
 
 class WebUrlDownloader(Skill):
