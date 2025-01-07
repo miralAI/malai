@@ -2,7 +2,7 @@ import logging
 
 from newsapi import NewsApiClient
 
-from ainara.framework.skill import Skill
+from malai.framework.skill import Skill
 
 SUPPORTED_LANGUAGES = {
     "ar",
